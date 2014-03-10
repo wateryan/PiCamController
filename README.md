@@ -1,7 +1,15 @@
+===============
 PiCamController
 ===============
 
 A simple, python based, script that automates the Raspberry Pi's Camera module based off of a configuration file.
+
+---------------
+     v0.02
+---------------
+-piCamConfig.conf
+  -Added explanation of configuration file
+   to ease with manual edits. 
 
 ---------------
      v0.01
